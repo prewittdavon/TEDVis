@@ -1,0 +1,17 @@
+.chart div {
+  font: 15px helvetica;
+  background-color: #D42E12;
+  text-align: right;
+  padding: 5px;
+  margin: 2px;
+  color: white;
+}
+
+body {
+    background-color: black;
+}
+
+h2 {
+	color:white;
+	font-family:sans-serif;
+}
