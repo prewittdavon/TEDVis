@@ -10,7 +10,7 @@ The data parsing has already been done and has been condensed into data.json!
 
 All that is left to do is create the bar chart!
 
-For a finished version of this, go to my personal [website](parlieux.com/TED)!
+For a finished version of this, go to my personal [website](http://parlieux.com/TED)!
 
 ## Getting Started 
 
