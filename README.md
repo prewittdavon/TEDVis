@@ -1,6 +1,6 @@
 # TEDVis
 
-Hi guys! Here is our first tutorial of the semester. Breaking away from Twitter Data for a second since our server might be down, I decided to use about 5400 or so TED talks manuscripts forkerd from @saryan's Ted-Talks repo instead!
+Hi guys! Here is our first tutorial of the semester. Breaking away from Twitter Data for a second since our server might be down, I decided to use about 5400 or so TED talks manuscripts forkerd from @saranyan's Ted-Talks repo instead!
 
 The main pursose of this tutorial is to get our feet wet with using data to visualize any insights. At its simplest form, we can create something like a bar graph! 
 
@@ -12,10 +12,9 @@ All that is left to do is create the bar chart!
 
 For a finished version of this, go to my personal [website](https://parlieux.com/TED)!
 
-## Getting Started
+## Getting Started 
 
 This tutorial will involve picking up Javascript since D3, our Data Visualization library, is written in Javascript. Don't be frightened! It is syntactically different to Python, but remember, all languages follow similar logic so you will be fine!
-
 
 
 ### Prerequisites
@@ -198,7 +197,7 @@ CSS is responsible for the style of the website. Its what will make our drab web
 
 * **@prewittdavon** - *Initial work* - [Profile](https://github.com/prewittdavon)
 
-* **@saryan** - *TED-Talks* - [TED-Talks](https://github.com/saryan/TED-Talks)
+* **@saranyan** - *TED-Talks* - [TED-Talks](https://github.com/saranyan/TED-Talks)
 
 
 
